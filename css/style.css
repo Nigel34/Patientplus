@@ -1,0 +1,44 @@
+form{
+  background-color: whitesmoke;
+    width: 120%;
+    margin-right:auto;
+    color: black;
+    padding-left: 30px;
+    margin-top: 50px;
+}
+
+legend{
+  font-weight: bolder;
+    text-align: center;
+    font-size: 50px;
+    color: black;
+}
+
+input[type=text],input[type=number],input[type=email]{
+     width: 90%;
+    height: 30px;
+
+}
+
+button{
+    background-color: aqua;
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+    box-shadow: 2px 2px dimgray;
+
+}
+textarea{
+    height: 100px;
+
+}
+#mydiv{
+    margin: 0 auto;
+}
+body{
+    background-color: rebeccapurple;
+
+}
+h4{
+    color: dimgray;
+}
