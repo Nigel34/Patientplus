@@ -42,3 +42,21 @@ body{
 h4{
     color: dimgray;
 }
+#two{
+    background-color: aqua;
+    width: 20%;
+    color: white;
+    margin-left: 250px;
+    margin-top: 50px;
+    padding-top: 120px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+#two h2{
+    font-weight: bolder;
+    text-align: center;
+
+}
+#mydiv{
+    display: flex;
+}
